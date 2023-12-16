@@ -1,0 +1,6 @@
+vijay|100|60|123456789|scam|india
+mallya|101|50|123456789|scam|india
+anirudh|400|55|123456789|scam|india
+nirav modi|900|60|234567891|Bank fraud|India
+choksy|900|60|8970502944|Scam|india
+Vijay mallya|420|60|7876542313|BANK SCAM|INDIA
